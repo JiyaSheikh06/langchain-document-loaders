@@ -1,0 +1,31 @@
+employee_id,name,department,role,city,experience_years
+101,Ayesha Khan,Data Science,Data Analyst,Karachi,1
+102,Hamza Ali,Software Engineering,Python Developer,Lahore,2
+103,Sara Ahmed,Artificial Intelligence,AI Engineer,Islamabad,1
+104,Usman Raza,Software Engineering,Backend Developer,Karachi,3
+105,Mariam Noor,Data Science,Data Scientist,Peshawar,2
+106,Bilal Hassan,Cloud Engineering,Cloud Associate,Lahore,1
+107,Hira Siddiqui,Artificial Intelligence,NLP Engineer,Karachi,2
+108,Daniyal Shah,Software Engineering,Software Engineer,Quetta,4
+109,Noor Fatima,Data Science,ML Intern,Islamabad,0
+110,Zain Malik,Cloud Engineering,DevOps Engineer,Karachi,3
+111,Iqra Javed,Artificial Intelligence,GenAI Developer,Lahore,1
+112,Ahmed Farooq,Software Engineering,API Developer,Multan,2
+113,Fatima Noor,Data Science,Data Analyst,Karachi,3
+114,Saad Ahmed,Cloud Engineering,Cloud Engineer,Islamabad,2
+115,Mahnoor Ali,Artificial Intelligence,ML Engineer,Lahore,1
+116,Omar Siddiqui,Software Engineering,Django Developer,Karachi,4
+117,Laiba Khan,Data Science,ML Intern,Hyderabad,0
+118,Hassan Raza,Cyber Security,Security Analyst,Islamabad,2
+119,Amna Sheikh,Software Engineering,Full Stack Developer,Lahore,3
+120,Rayyan Malik,Cloud Engineering,DevOps Engineer,Karachi,2
+121,Mehwish Tariq,Artificial Intelligence,NLP Engineer,Multan,1
+122,Abdullah Shah,Data Science,Data Scientist,Peshawar,3
+123,Zoya Ahmed,Cyber Security,Penetration Tester,Karachi,2
+124,Mustafa Khan,Software Engineering,Python Developer,Islamabad,1
+125,Anaya Fatima,Artificial Intelligence,AI Research Assistant,Lahore,0
+126,Rehan Ali,Cloud Engineering,System Administrator,Quetta,5
+127,Kinza Javed,Data Science,BI Analyst,Karachi,2
+128,Shahzaib Noor,Software Engineering,Backend Developer,Multan,3
+129,Eman Siddiqui,Cyber Security,Security Engineer,Lahore,1
+130,Danish Iqbal,Artificial Intelligence,AI Engineer,Karachi,4
